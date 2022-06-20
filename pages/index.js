@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          ok so it looks like we did SOMETHING right.... (trash terminal + git add . + git commit -m initial + git push){' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
